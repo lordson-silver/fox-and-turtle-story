@@ -12,6 +12,10 @@ One day, while out on a run, **Blaze** came across a slow turtle named **Turbo**
 
 ## Chapter 2
 
-**"Hello, turtle,"** **Blaze** said. **"Why are you so slow?"** **Blaze** asked. **"I'm not slow,"** **Turbo** replied. **"I'm just taking my time."** **Turbo** said. Without hesitation, **Blaze** challenged **Turbo** to a race. **Turbo** accepted the challenge, knowing that he could never outrun **Blaze**, but he was determined to give his best shot. The race began, and as expected, **Blaze** quickly took the lead, leaving **Turbo** far behind.
+**"Hello, turtle,"** **Blaze** said. _"Why are you so slow?"_ **Blaze** asked. _"I'm not slow,"_ **Turbo** replied. _"I'm just taking my time."_ **Turbo** said. Without hesitation, **Blaze** challenged **Turbo** to a race. **Turbo** accepted the challenge, knowing that he could never outrun **Blaze**, but he was determined to give his best shot. The race began, and as expected, **Blaze** quickly took the lead, leaving **Turbo** far behind.
 
 ---
+
+## Chapter 3
+
+But as the race continued, **Blaze** began to realize that there was more to life than speed. He saw how **Turbo** was taking the time to stop and _smell the flowers_ and _watch the birds_. **Blaze** has never taken the time to appreciate _the beauty of the forest_ before, as he was too focused on winning.
