@@ -27,3 +27,10 @@ But as the race continued, **Blaze** began to realize that there was more to lif
 Feeling ashamed, **Blaze** slowed down and waited for **Turbo** to catch up. When **Turbo** finally reached **Blaze**, **Blaze** apologized for his arrogance and asked **Turbo** to be his friend.
 
 ---
+
+## Chaper 5
+
+From that day on, **Blaze** and **Turbo** were inseperable. They would race each other through the forest, but now they did it for fun, taking turns leading the way and showing each other _the beauty of the forest_. **Blaze** learned that _true friendship was more important than winning_ and that _true speed was not just measured by how quickly one can run_, but by how much they can appreciate the journey.
+
+
+_The end_
