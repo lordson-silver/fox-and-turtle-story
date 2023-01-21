@@ -17,7 +17,8 @@ git clone <url>
 etc...
 ```
 
-Resource to learn [git/Github](Resource to learn [markdown](www.markdownguide.org/basic-syntax/))
+Resource to learn [git/Github](www.freecodecamp.org/news/git-and-github-for-beginners/)
+
 And also basic markdown syntax like:
 
 ```md
